@@ -1,0 +1,31 @@
+_repo: Time-and-Tide--A-Romance-of-the-Moon_24236
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ball, Robert S. (Robert Stawell)
+    alias: Ball, Robert Stawell, Sir
+    birthdate: 1840
+    deathdate: 1913
+    gutenberg_agent_id: '866'
+    url: http://www.gutenberg.org/2009/agents/866
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Stawell_Ball
+description: ''
+gutenberg_bookshelf: Astronomy
+gutenberg_issued: '2008-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24236'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Satellites'
+- !lcc 'QB'
+- !lcsh 'Moon'
+- !lcsh 'Tides'
+title: 'Time and Tide: A Romance of the Moon'
+url: http://www.gutenberg.org/ebooks/24236
